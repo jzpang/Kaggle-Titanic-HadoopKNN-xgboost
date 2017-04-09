@@ -1,6 +1,6 @@
 # Kaggle-Titanic-HadoopKNN-xgboost
 
-Introduction
+Introduction.
 This project contains three parts:
 1. performed feature engineering on Kaggle Titanic dataset
 2. built up a KNN Classifier on Hadoop Mapreduce from scratch
